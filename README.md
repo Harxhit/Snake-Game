@@ -14,3 +14,6 @@ Experienced Python developer specializing in game development. Developed a class
 ### User Interface Design
 ## Snake Game:
 Created a classic Snake game using Python, showcasing mastery in game mechanics and user interaction. Implemented features such as snake movement, food spawning, score management, and collision handling to deliver an immersive gaming experience.
+## Links 🔗
+### Turtle graphic documentation - https://docs.python.org/3/library/turtle.html
+### Turtle Colors - https://cs111.wellesley.edu/reference/colors
